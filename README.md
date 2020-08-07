@@ -16,11 +16,11 @@ Instruction
 
 ### Running app.py
 
-Standalone          :  `python app.py`
-Docker              :  `./run_docker.sh`
-Kubernetes          :  `./run_kubernetes.sh`
+* Standalone          :  `python app.py`
+* Docker              :  `./run_docker.sh`
+* Kubernetes          :  `./run_kubernetes.sh`
 
 ### Files
 
-docker.out.txt      :   Log from docker
-kubernetes.out.txt  :   Log from kubernetes
+* docker.out.txt      :   Log from docker
+* kubernetes.out.txt  :   Log from kubernetes
